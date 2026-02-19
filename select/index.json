@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋する私は無重力",
+  "base_artist": "BEYOOOOONDS",
+  "createdAt": "2026-02-19T08:01:01.454796Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する私は無重力",
+      "artist": "BEYOOOOONDS",
+      "has_synced": false,
+      "path": "select/pl_01_恋する私は無重力_BEYOOOOONDS.txt"
+    }
+  ]
+}
